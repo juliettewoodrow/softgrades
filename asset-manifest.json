@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/softgrades/static/css/main.07b7c4c2.css",
+    "main.js": "/softgrades/static/js/main.398a8d0b.js",
+    "static/js/787.971877b9.chunk.js": "/softgrades/static/js/787.971877b9.chunk.js",
+    "index.html": "/softgrades/index.html",
+    "main.07b7c4c2.css.map": "/softgrades/static/css/main.07b7c4c2.css.map",
+    "main.398a8d0b.js.map": "/softgrades/static/js/main.398a8d0b.js.map",
+    "787.971877b9.chunk.js.map": "/softgrades/static/js/787.971877b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b7c4c2.css",
+    "static/js/main.398a8d0b.js"
+  ]
+}
