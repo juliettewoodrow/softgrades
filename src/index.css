@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.assignment-card {
+  border: 1px solid;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  margin-right: 1rem;
+}
+
+.app-container {
+  padding: 1rem;
+  max-width: 90%;
+}
+
+.select-number {
+  margin-left: 1rem;
+  width: 4%;
+}
