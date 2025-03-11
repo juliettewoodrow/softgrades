@@ -8,7 +8,7 @@ import TeacherContainer from './components/TeacherContainer';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/softgrades">
       <Routes>
         {/* Home ("/") */}
         <Route path="/" element={<HomePage />} />
